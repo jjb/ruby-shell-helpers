@@ -22,7 +22,9 @@ simple tools to make it easier to reach for ruby instead of shell. make behavior
 
 
 ### similar/related projects
-* 
+* https://github.com/albertalef/rubyshell
+* https://github.com/ruby/shell
+* https://github.com/faraazahmad/shellrb
 
 ### info
 * https://workingwithruby.com/wwup/intro/
