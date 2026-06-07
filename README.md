@@ -14,6 +14,7 @@ simple tools to make it easier to reach for ruby instead of shell. make behavior
    * https://github.com/enkessler/childprocess
 
 ### ideas (copy/pasted from previous scratch note, maybe irrelevant for this project)
+* mirror `-euxo pipefail` features, replicate behavior within each helper
 * `gem exec` in shebang https://github.com/ruby/rubygems/pull/6309
 * option to use at_exit to send error from ruby-shell to stderror of calling script
 * when return is non-zero, raise exception, print stderror and stdout
