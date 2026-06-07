@@ -1,6 +1,3 @@
-
-# todo: mirror -euxo pipefail features, replicate behavior within each helper
-
 # no weird behavior if using heredocs
 # todo: document what the weird behavior is
 # todo: use refinements to just replace top-level `system`
@@ -16,4 +13,3 @@ def capture(body)
   #   echo 123
   # SCRIPT
 end
-
